@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import { Button, Form } from 'react-bootstrap'
+import { Form } from 'react-bootstrap'
 import { questionGames } from '../Questionario'
 import { Divform } from '../style/styls'
 import { Formstyle, Titulo } from '../style/styls'
